@@ -1,5 +1,8 @@
 # Agenda de Contatos com Node.js e MongoDB
 
+Visualização do projeto em video:
+https://www.linkedin.com/posts/dev-jose-antonio_desenvolvimentoweb-nodejs-mongodb-activity-7099061034312699904-y-p_?utm_source=share&utm_medium=member_desktop
+
 Este é um projeto prático de um aplicativo de Agenda de Contatos desenvolvido como parte do meu curso de desenvolvimento web. O projeto é construído usando Node.js e MongoDB, e oferece funcionalidades básicas de gerenciamento de contatos.
 
 ## Funcionalidades
